@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Cari Fine Jewels](https://carifinejewels.com/)
 
-- 🌱 I’m currently learning **NextJs**
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amritpodder/](https://www.linkedin.com/in/amritpodder/)
 
 - 💬 Ask me about **react, gatsby**
