@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="coddingway" /></a> </p>
 
-- 🔭 I’m currently working on [PianoWorks Bar](https://request.pianoworks.bar/?location=3&table=1)
+- 🔭 I’m currently working on [Cari Fine Jewels](https://carifinejewels.com/)
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/podderamrit/](https://www.linkedin.com/in/podderamrit/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amritpodder/](https://www.linkedin.com/in/amritpodder/)
 
 - 💬 Ask me about **react, gatsby**
 
 - 📫 How to reach me **design2code93@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/podderamrit/](https://www.linkedin.com/in/podderamrit/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/amritpodder/](https://www.linkedin.com/in/amritpodder/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/coddingway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="coddingway" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/podder_amrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/podder_amrit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/podderamrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="podderamrit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amritpodder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amritpodder" height="30" width="40" /></a>
 <a href="https://fb.com/code.amrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="code.amrit" height="30" width="40" /></a>
 <a href="https://instagram.com/coddingway_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coddingway_47" height="30" width="40" /></a>
 </p>
